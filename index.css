@@ -1,0 +1,15 @@
+body,
+html {
+  background-color: black;
+}
+
+.img-fluid {
+  width: 90%;
+  max-width: 80vh;
+}
+
+.btn-primary-outline {
+  background-color: transparent;
+  border-color: #ccc;
+  color: #ccc;
+}
